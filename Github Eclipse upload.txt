@@ -1,0 +1,30 @@
+//Upload project in github using eclipse
+
+
+step 1:login to github.com
+step 2:create new repository
+step 3:Open eclipse and go to your project which you want to push to github
+step 4:Team>share project >git>create repository>finish!
+Step 5:Right click project>Team>commit >only commit,not commit and push
+Step 6:Project>team>repository view>rigt click on remote>create remote   repo>origin>change >add the new https:link>Enter your github user +pass>Generate Master Branch>git website+refresh and you will find the files there     
+
+//Download project from github using eclipse
+
+Step 1: Go to marketplace and install subclipse
+step 2: Then go to wnindows>Show views >others>svn repository>Add svn repository
+step 3: Then copy the github url eg:  https://github.com/satishpmhatre/Folder/tree/master/folder1
+ 
+ then replace /tree/master with /trunk
+ 
+https://github.com/satishpmhatre/Folder/trunk/folder1
+
+then click on finish
+step 4:Now right click on svn repository and click on checkout and click on finish
+
+
+//Youtube link
+https://www.youtube.com/watch?v=BH4OqYHoHC0
+
+
+
+ 
